@@ -1,0 +1,9 @@
+@import "./normalize.scss";
+
+$color: red;
+
+header {
+  p {
+    color: $color;
+  }
+}
